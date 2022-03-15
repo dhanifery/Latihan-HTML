@@ -1,0 +1,26 @@
+*{
+   margin: 0px;
+   padding: 0px;
+   font-family: sans-serif;
+}
+
+.container{
+   min-height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.glass{
+   width: 70vh;
+   min-height: 70vh;
+   background-color: rgb(50, 47, 51);
+   display: flex;
+   border-radius: 2rem;
+}
+
+.glass h3{
+   color: white;
+   margin: auto;
+   width: 100%;
+   background-color: rgb(110, 109, 109);
+}
